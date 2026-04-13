@@ -1,0 +1,12 @@
+# Generated secrets. Never commit.
+.env
+credentials.txt
+*.bak.*
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# gstack workspace (skill outputs, local QA reports)
+.gstack/
