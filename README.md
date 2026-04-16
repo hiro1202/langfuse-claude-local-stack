@@ -156,7 +156,3 @@ cd .. && rm -rf langfuse-claude-local-stack
 ## 謝辞
 
 Docker 構成は [doneyli/claude-code-langfuse-template](https://github.com/doneyli/claude-code-langfuse-template) を参考にしました。本リポジトリは「全コードを自分で書き、読み切れる量に絞る」ことを目的にゼロから再実装したものです。
-
-## ライセンス
-
-MIT
